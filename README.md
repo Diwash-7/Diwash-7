@@ -1,4 +1,6 @@
-## Hi there 👋
+for contact info or about me ,visit https://diwash.is-a.dev
+
+up for my boards & i'll finally will be freeee
 
 <!--
 **Diwash-7/Diwash-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
