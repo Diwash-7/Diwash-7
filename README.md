@@ -21,9 +21,9 @@
 <div >
   <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
+  <img width="12 px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/701px-Python-logo-notext.svg.png" height="40" alt="typescript logo"  />
-  <img width="12" />
+  <img width="12 px" />
   </div>
 <!--   <div align="right">
 <img src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" height="150" alt="gif" />
